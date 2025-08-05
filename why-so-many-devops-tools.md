@@ -1,8 +1,8 @@
 ---
-title: "Why So Many DevOps Tools?"
-excerpt: "A deep dive into the DevOps tooling ecosystem and why we have such a diverse landscape of tools for different purposes."
+title: Why So Many DevOps Tools?
+excerpt: A deep dive into the DevOps tooling ecosystem and why we have such a diverse landscape of tools for different purposes.
 date: "2025-08-05"
-tags: "DevOps, Open-source, Tools, Automation"
+tags: DevOps, Open-source, Tools, Automation
 ---
 
 # Why So Many DevOps Tools?
