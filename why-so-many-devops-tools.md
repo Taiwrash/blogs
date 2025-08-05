@@ -8,7 +8,7 @@ tags: DevOps, Open-source, Tools, Automation
 # Why So Many DevOps Tools?
 
 
-![DevOps Tools Landscape](article-images/why-so-many-devops-tools/Screenshot%202025-08-05%20at%2008.20.14.png)
+![DevOps Tools Landscape](article-images/why-so-many-devops-tools/why-so-many-cover.png)
 
 ## Introduction
 
