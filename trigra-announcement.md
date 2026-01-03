@@ -63,6 +63,8 @@ Check it out: [github.com/Taiwrash/trigra](https://github.com/Taiwrash/trigra)
 
 And hey, if you run into issues or have ideas, open an issue or PR. This is for the community, built by someone who just wanted Kubernetes to be a bit less complicated.
 
+[Check and upvote us on Product Hunt!](https://www.producthunt.com/products/trigra?launch=trigra)
+
 Happy GitOps-ing! 🚀
 
 ---
