@@ -1,6 +1,6 @@
 ---
 title: 'Introducing Trigra: GitOps Made Simple for Everyone'
-excerpt: I'm excited to share something I've been working on – **Trigra**, a lightweight Kubernetes GitOps controller that just... works. No complex setups, no steep learning curves. Just push your YAML files to Git, and your cluster updates automatically. Perfect for homelabs, edge clusters, or anyone who wants GitOps without the hassle.
+excerpt: I'm excited to share something I've been working on – Trigra, a lightweight Kubernetes GitOps controller that just... works. No complex setups, no steep learning curves. Just push your YAML files to Git, and your cluster updates automatically. Perfect for homelabs, edge clusters, or anyone who wants GitOps without the hassle.
 date: "2025-08-06"
 tags: DevOps, Open-source, Tools, GitOps, Kubernetes
 ---
@@ -8,7 +8,7 @@ tags: DevOps, Open-source, Tools, GitOps, Kubernetes
 
 Hey folks! 👋 
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/rX7gjp1WW4w" title="Trigra Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Trigra Demo Video](https://img.youtube.com/vi/rX7gjp1WW4w/maxresdefault.jpg)](https://www.youtube.com/watch?v=rX7gjp1WW4w)
 
 ![](https://app.eraser.io/workspace/QdXTK61OUqZqUE2ocAE7/preview?elements=gJntNtLMFIXvvvYV2TYMNw&type=embed)
 *How Trigra works: Git push → Webhook → Kubernetes cluster updates*
@@ -27,7 +27,7 @@ So I built Trigra. It's simple: you push YAML files to Git, and your cluster upd
 curl -fsSL https://raw.githubusercontent.com/Taiwrash/trigra/main/install.sh | bash
 ```
 
-![Installation in action](article-images/trigra-announcement/installation.png)
+![Installation in action](article-images/trigra-announcement/install.png)
 *Literally takes less than 3 minutes from zero to GitOps*
 
 **It supports everything.** Deployments, Services, ConfigMaps, Secrets, StatefulSets, DaemonSets, Jobs, CronJobs, Ingress, PVCs – if Kubernetes can run it, Trigra can deploy it.
@@ -42,7 +42,7 @@ This started as a weekend project to scratch my own itch. I wanted GitOps for my
 
 I've been dogfooding it for weeks now, deploying everything from simple Nginx servers to full-blown AI models with Ollama. It just works.
 
-![Homepage Dashboard Example](article-images/trigra-announcement/homepage-dashboard.png)
+![Homepage Dashboard Example](article-images/trigra-announcement/dash.png)
 *Running a full homelab dashboard with Trigra – deployed straight from Git*
 
 ## What's Next?
