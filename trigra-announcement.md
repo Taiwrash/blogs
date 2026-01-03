@@ -1,7 +1,7 @@
 ---
 title: 'Introducing Trigra: GitOps Made Simple for Everyone'
 excerpt: I'm excited to share something I've been working on – Trigra, a lightweight Kubernetes GitOps controller that just... works. No complex setups, no steep learning curves. Just push your YAML files to Git, and your cluster updates automatically. Perfect for homelabs, edge clusters, or anyone who wants GitOps without the hassle.
-date: "2025-08-06"
+date: "2026-01-03"
 tags: DevOps, Open-source, Tools, GitOps, Kubernetes
 ---
 
