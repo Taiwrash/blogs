@@ -67,6 +67,12 @@ And hey, if you run into issues or have ideas, open an issue or PR. This is for 
 
 Happy GitOps-ing! 🚀
 
+## Other Social Posts
+
+- [LinkedIn Post](https://www.linkedin.com/posts/rasheedtaiwo_trigra-demo-lightweight-standard-compliant-activity-7413132594696896512-bd43)
+- [X (Twitter) Post](https://x.com/taiwrash/status/2007367627338133858?s=20)
+
+
 ---
 
 *Taiwrash cares...*
