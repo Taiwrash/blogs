@@ -1,12 +1,12 @@
 ---
-title: Building a Private RAG Lab: ZeroEntropy + Ollama Comparison Suite - ZeroEntropy First Check
+title: Private RAG Lab: ZeroEntropy + Ollama Comparison Suite - ZeroEntropy First Check
 excerpt: In the world of Generative AI, the "Retrieval" part of RAG (Retrieval-Augmented Generation) is often the bottleneck for user experience. If retrieval isn't precise, the LLM hallucinates, and the  "Experience" has a problem.
 date: "2026-01-14"
 tags: AI, RAG,  rerankers, embeddings, search, retrieval systems
 ---
 ![Cover Image](article-images/zeroentropy-first-check/cover.png)
 
-This guide explores building a high-performance, private RAG comparison lab using [**ZeroEntropy**](https://.zeroentropy.dev) for state-of-the-art semantic retrieval and **Ollama** for local inference.
+This guide explores building a high-performance, private RAG comparison lab using [**ZeroEntropy**](https://zeroentropy.dev) for state-of-the-art semantic retrieval and **Ollama** for local inference.
 
 ---
 
@@ -15,7 +15,7 @@ This guide explores building a high-performance, private RAG comparison lab usin
 
 To build a truly "premium" experience, we decoupled the stack into three distinct layers:
 
-![](https://app.eraser.io/workspace/QdXTK61OUqZqUE2ocAE7/preview?elements=Zx8InqQTZuWoFc-qFF3hYw&type=embed)
+![](article-images/zeroentropy-first-check/arch.png)
 
 1.  **The Index & Retrieval Engine (ZeroEntropy)**: Using `zerank-2` for neural reranking to ensure only the highest-quality context reaches the model.
 2.  **The Local Generation Engine (Ollama)**: Running `TinyLlama` locally for privacy and speed.
