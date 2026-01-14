@@ -1,6 +1,6 @@
 ---
 title: Building a Private RAG Lab: ZeroEntropy + Ollama Comparison Suite - ZeroEntropy First Check
-excerpt: In the world of Generative AI, the "Retrieval" part of RAG (Retrieval-Augmented Generation) is often the bottleneck for user experience. If retrieval isn't precise, the LLM hallucinates, and the "Head of Experience" has a problem.
+excerpt: In the world of Generative AI, the "Retrieval" part of RAG (Retrieval-Augmented Generation) is often the bottleneck for user experience. If retrieval isn't precise, the LLM hallucinates, and the  "Experience" has a problem.
 date: "2026-01-14"
 tags: AI, RAG,  rerankers, embeddings, search, retrieval systems
 ---
